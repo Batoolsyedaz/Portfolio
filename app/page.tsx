@@ -342,7 +342,7 @@ export default function Portfolio() {
   };
 
   // Download CV handler (assuming file in /assets/Syedabatool_CV.pdf)
-  const cvLink = "/assets/SyedaBatool_CV.pdf";
+  const cvLink = "/assets/Syeda_Batool_Fatima_CV.pdf";
 
   // Contact form handler
 const handleContactSubmit = (e) => {
