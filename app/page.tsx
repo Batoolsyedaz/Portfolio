@@ -66,7 +66,7 @@ export default function Portfolio() {
   "Framer Motion"
 ],
 
-    image: "/assets/beaty.png",
+    image: "/assets/beauty.png",
     github: "https://github.com/Batoolsyedaz/beauty-diary",
     live: "https://beauty-diary.vercel.app/"
   },
@@ -83,7 +83,7 @@ export default function Portfolio() {
   "Axios"
 ],
 
-    image: "/assets/studyhub.png",
+    image: "/assets/studyyhub.png",
     github: "https://github.com/Batoolsyedaz/StudyHub",
     live: "https://study-hub-ud7r.vercel.app/"
   },
