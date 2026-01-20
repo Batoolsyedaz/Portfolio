@@ -17,6 +17,7 @@ import { ScrollTrigger } from "gsap/ScrollTrigger";
 gsap.registerPlugin(ScrollTrigger);
 
 export default function Portfolio() {
+ 
 
   // Refs for reveal animations
   const sectionsRef = useRef([]);
