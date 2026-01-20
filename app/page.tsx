@@ -103,7 +103,7 @@ export default function Portfolio() {
 ],
 
 
-    image: "/assets/cofe.png",
+    image: "/assets/cofee.png",
     github: "https://github.com/Batoolsyedaz/coffee-shop",
     live: "https://coffee-shop-two-green.vercel.app/"
   },
